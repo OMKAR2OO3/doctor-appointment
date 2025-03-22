@@ -1,7 +1,7 @@
 import { useContext, useState } from "react";
 import Footer from "../component/Footer";
 import { useNavigate } from "react-router-dom";
-import { AppContext } from "../context/Appcontext";
+import { AppContext } from "../context/AppContext";
 import { useEffect } from "react";
 
 function Docter() {

@@ -1,6 +1,6 @@
 import { useState, useEffect, useContext } from "react";
 import { useParams } from "react-router-dom";
-import { AppContext } from "../context/Appcontext";
+import { AppContext } from "../context/AppContext.jsx";
 import { assets } from "../assets/assets_frontend/assets";
 import Footer from "../component/Footer";
 
