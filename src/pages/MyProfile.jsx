@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import { assets } from "../assets/assets_frontend/assets";
 import Footer from "../component/Footer";
 function MyProfile() {

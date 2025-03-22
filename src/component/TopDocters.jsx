@@ -1,11 +1,10 @@
-import React, { useContext } from "react";
+import { useContext } from "react";
 import { useNavigate } from "react-router-dom";
 import { AppContext } from "../context/Appcontext";
 
 function TopDocters() {
   const navigate = useNavigate();
   const { doctors } = useContext(AppContext);
-  // console.log(doctors, AppContext);
 
   return (
     <div className=" text-center">

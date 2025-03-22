@@ -1,4 +1,4 @@
-import React from "react";
+import "react";
 import { assets } from "../assets/assets_frontend/assets";
 
 function Footer() {
@@ -9,7 +9,7 @@ function Footer() {
           <img src={assets.logo} alt="" />
           <p className="mt-4 leading-[30px] text-gray-800">
             Lorem Ipsum is simply dummy text of the printing and typesetting
-            industry. Lorem Ipsum has been the industry's standard dummy text
+            industry. Lorem Ipsum has been the industrys standard dummy text
             ever since the 1500s, when an unknown printer took a galley of type
             and scrambled it to make a type specimen book.
           </p>

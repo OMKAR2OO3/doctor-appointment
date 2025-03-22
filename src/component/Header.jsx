@@ -1,4 +1,4 @@
-import React from "react";
+import "react";
 import { assets } from "../assets/assets_frontend/assets";
 function Header() {
   return (

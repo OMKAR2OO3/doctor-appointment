@@ -5,7 +5,7 @@ function Login() {
   const [state, setState] = useState("Sign Up");
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
-  const [name, SetName] = useState("  ");
+  const [name, SetName] = useState(" ");
   const onSubmitHandle = async (event) => {
     event.preventDefult();
   };

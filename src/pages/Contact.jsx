@@ -1,4 +1,4 @@
-import React from "react";
+import "react";
 import Footer from "../component/Footer";
 import { assets } from "../assets/assets_frontend/assets";
 

@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useContext } from "react";
+import { useState, useEffect, useContext } from "react";
 import { useParams } from "react-router-dom";
 import { AppContext } from "../context/Appcontext";
 import { assets } from "../assets/assets_frontend/assets";
